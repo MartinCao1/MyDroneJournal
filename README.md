@@ -1,4 +1,5 @@
-MyDrone Journal 🚁📖
+MyDrone Journal 
+
 En mobilapplikation til at logge og holde styr på observationer af droner. Fungerer som din personlige "dagbog" for drone-møder, hvor du nemt kan registrere, søge og overskue dine observationer.
 
 Projektformål
